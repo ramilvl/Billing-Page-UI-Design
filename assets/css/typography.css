@@ -1,0 +1,32 @@
+.border-radius-32px{
+    border-radius: 32px;
+}
+
+
+.height-620px{
+    height: 620px;
+}
+
+.text-size-14px{
+    font-size: 14px;
+}
+
+.text-size-16px{
+    font-size: 16px;
+}
+
+.font-400{
+    font-weight: 400;
+}
+
+.font-700{
+    font-weight: 700;
+}
+
+.special-color{
+    color: var(--1-a-194-d, #1A194D);
+}
+
+.cursor{
+    cursor: pointer;
+}

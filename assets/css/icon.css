@@ -1,0 +1,34 @@
+.icon {
+    width: 32px;
+    height: 32px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.icon-1{
+    background-image: url('../icon/logo1.svg');
+}
+
+.icon-2{
+    background-image: url('../icon/logo2.svg');
+}
+
+.icon-3{
+    background-image: url('../icon/logo3.svg');
+}
+
+.icon-4{
+    background-image: url('../icon/logo4.svg');
+}
+
+.icon-5{
+    background-image: url('../icon/logo5.svg');
+}
+
+.icon-exit{
+    background-image: url('../icon/exit.svg');
+}
