@@ -72,6 +72,10 @@
     color: var(--style, #62618F);
 }
 
+.menu-navbar .box:hover{
+    background-color: #EE4D38;
+}
+
 .box4-line{
     width: 6px;
     height: 48px;
@@ -153,6 +157,6 @@
 }
 
 .billing-info-box button:hover{
-    background-color: red;
+    background-color: #EE4D38;
     cursor: pointer;
 }
