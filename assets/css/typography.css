@@ -2,6 +2,9 @@
     border-radius: 32px;
 }
 
+.padding-right-below{
+    padding: 8px 16px;
+}
 
 .height-620px{
     height: 620px;
@@ -15,8 +18,16 @@
     font-size: 16px;
 }
 
+.text-size-32px{
+    font-size: 32px;
+}
+
 .font-400{
     font-weight: 400;
+}
+
+.font-500{
+    font-weight: 500;
 }
 
 .font-700{
@@ -27,6 +38,43 @@
     color: var(--1-a-194-d, #1A194D);
 }
 
+.color-626{
+    color: var(--style, #62618F);
+}
+
 .cursor{
     cursor: pointer;
+}
+
+.display-block{
+    display: block;
+}
+
+.bg-white{
+    background-color: #FFF;
+}
+
+.width-109px{
+    width: 109px;
+}
+
+.width-114px{
+    width: 114px;
+}
+
+.width-150px{
+    width: 150px;
+}
+
+.height-24px{
+    height: 24px;
+}
+
+.height-40px{
+    height:40px;
+}
+
+.position-relative{
+    position: absolute;
+    left: 42%;
 }

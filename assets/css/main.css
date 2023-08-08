@@ -8,6 +8,8 @@
 
 .main-page{
     width: 1319px;
+    display: flex;
+    flex-direction: row;
     background: linear-gradient(322deg, #F8F8FF 0%, #FFF 100%);
     box-shadow: 0px 49px 32px -19px rgba(56, 56, 150, 0.15);
 }
@@ -93,4 +95,64 @@
     align-items: center;
     justify-content: start;
     justify-content: start;color: var(--style, #62618F);
+}
+
+.billing h1{
+    width: 102px;
+    height: 48px;
+    margin: 40px 0px 0px 72px;
+}
+
+.billing-order-history{
+    width: 315px;
+    height: 49px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin: 25px 0px 0px 72px;
+}
+
+.billing-info{  
+    width: 600px;
+    height: 261px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin: 50px 0px 0px 56px;
+    align-items: start;
+    justify-content: start;
+}
+
+.billing-info-header{
+    width: 555px;
+    height: 21px;
+    display: flex;
+    flex-direction: row;
+    padding: 0px 16px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.billing-info-box{
+    width: 600px;
+    height: 56px;
+    display: flex;
+    flex-direction: row;
+    gap: 114px;
+    align-items: center;
+    justify-content: start;
+}
+
+.billing-info-box button{
+    border-radius: 8px;
+    border: 1px solid var(--cbcbd-9, #CBCBD9);
+}
+
+.billing-info-box:hover{
+    background-color: #FFF;
+}
+
+.billing-info-box button:hover{
+    background-color: red;
+    cursor: pointer;
 }
