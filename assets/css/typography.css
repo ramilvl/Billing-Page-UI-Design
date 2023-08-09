@@ -1,3 +1,5 @@
+
+
 .border-radius-32px{
     border-radius: 32px;
 }
@@ -16,6 +18,10 @@
 
 .text-size-16px{
     font-size: 16px;
+}
+
+.text-size-24px{
+    font-size: 24px;
 }
 
 .text-size-32px{
