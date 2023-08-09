@@ -1,5 +1,5 @@
 .container{
-    height: 115vh;
+    height: 130vh;
     background-color: #E8E8FD;
     display: flex;
     align-items: center;
@@ -9,7 +9,7 @@
 
 .main-page{
     width: 1319px;
-    Height: 750px !important;
+    Height: 790px !important;
     display: flex;
     flex-direction: row;
     margin-top: 35px;
@@ -20,7 +20,7 @@
 .menu{
     width: 260px;
     background-color: #F8F8FF;
-    height: 740px !important;
+    height: 790px !important;
 }
 
 .menu-profile{
@@ -88,7 +88,7 @@
     align-self: stretch;
     position: absolute;
     left: 7%;
-    top: 41%;
+    top: 56%;
 }
 
 .menu-exit{
@@ -96,8 +96,8 @@
     height: 60px;
     padding: 8px 8px;
     margin-left: 6px;
-    margin-top: 280px;
-    margin-bottom: 29px;
+    margin-top: 320px;
+    margin-bottom: 20px;
     display: flex;
     gap: 10px;
     align-items: center;
